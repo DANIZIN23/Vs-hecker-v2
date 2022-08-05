@@ -9,69 +9,69 @@
 			"fps": 24,
 			"anim": "idle",
 			"indices": [],
-			"name": "GF Dancing Beat"
+			"name": "heccidle"
 		},
 		{
 			"offsets": [
-				-281,
+				-347,
 				158
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singUP",
 			"indices": [],
-			"name": "GF Up Note"
+			"name": "heccup"
 		},
 		{
 			"offsets": [
-				-281,
-				158
+				-329,
+				156
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singDOWN",
 			"indices": [],
-			"name": "GF Down Note"
+			"name": "heccdown"
 		},
 		{
 			"offsets": [
-				-281,
+				-388,
 				158
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHT",
 			"indices": [],
-			"name": "GF Right Note"
+			"name": "heccright"
 		},
 		{
+			"loop": false,
 			"offsets": [
-				-281,
+				-293,
 				158
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "GF left note"
+			"fps": 24,
+			"name": "heccleft",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/GF_assets",
+	"image": "characters/hecc_assets",
 	"position": [
-		0,
-		320
+		290,
+		70
 	],
-	"healthicon": "gf",
+	"healthicon": "hecc",
 	"flip_x": false,
 	"healthbar_colors": [
-		165,
-		0,
-		77
+		123,
+		95,
+		60
 	],
 	"camera_position": [
-		390,
-		30
+		110,
+		310
 	],
 	"sing_duration": 4,
 	"scale": 1
